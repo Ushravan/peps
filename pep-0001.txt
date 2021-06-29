@@ -9,7 +9,7 @@ Post-History: 21-Mar-2001, 29-Jul-2002, 03-May-2003, 05-May-2012,
               07-Apr-2013
 
 
-What is a PEP?
+#What is a PEP?
 ==============
 
 PEP stands for Python Enhancement Proposal.  A PEP is a design
